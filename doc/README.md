@@ -1,7 +1,6 @@
-Documentação
-==========
+# Documentação
 
-# Proposta / Plano de Trabalhos
+## Proposta / Plano de Trabalhos
 Apresentação do **tema** da tese e do **plano de trabalhos** de acordo com [Requisitos para pedido de admissão][1] no portal de [MEI][2].
 
 [1]: http://mei.di.uminho.pt/?q=pt-pt/dissertacao#admissao
@@ -22,8 +21,8 @@ Contêm:
   - Assinaturas do Aluno e do(s) Orientador(es)
 
 
-# Relatório de Pré-Dissertação
+## Relatório de Pré-Dissertação
 
 
-# Relatório de Dissertação
+## Relatório de Dissertação
 Documento que contém todo o conteúdo do trabalho desenvolvido da tese.
